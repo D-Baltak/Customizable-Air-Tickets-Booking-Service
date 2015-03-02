@@ -11,7 +11,6 @@ During this project were made: Single Page Application, client-side design, vari
 
 <strong>Stack:</strong> javascript, jquery, jqueryUI, html, css, gruntjs, requirejs, almondjs, lodash, backbone, localStorage, sessionStorage, cookies, rollbar, svn, jira(development by sprints).
 
-<hr>
 <h2>RU</h2>
 
 Сервис по продаже авиабилетов компании-поставщика под торговой маркой компании-продавца. Сайт разрабатывался и поддерживался по договору NDA.
