@@ -1,7 +1,5 @@
-Customizable Air Tickets Booking Service
-
-=====================
-
+<h1>Customizable Air Tickets Booking Service</h1>
+<hr>
 <h2>EN</h2>
 
 Customizable Air Tickets Booking Service
@@ -13,9 +11,7 @@ During this project were made: Single Page Application, client-side design, vari
 
 Stack: javascript, jquery, jqueryUI, html, css, gruntjs, requirejs, almondjs, lodash, backbone, localStorage, sessionStorage, cookies, rollbar, svn, jira(development by sprints).
 
-
-=====================
-
+<hr>
 <h2>RU</h2>
 
 Сервис по продаже авиабилетов компании-поставщика под торговой маркой компании-продавца. Сайт разрабатывался и поддерживался по договору NDA.
